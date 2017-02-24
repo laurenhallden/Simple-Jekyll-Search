@@ -242,6 +242,10 @@ If this doesn't work when using Github pages you can try ```jsonify``` to make s
 ```
 **Note: you don't need to use quotes ' " ' in this since ```jsonify``` automatically inserts them.**
 
+## Search in all collections
+
+See [this issue](https://github.com/christian-fei/Simple-Jekyll-Search/issues/68)
+
 
 
 
